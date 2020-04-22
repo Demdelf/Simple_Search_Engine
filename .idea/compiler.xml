@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Adding_values_main" target="11" />
+      <module name="Problems-Adding_values_test" target="11" />
+      <module name="Problems-Advanced_calculator_main" target="11" />
+      <module name="Problems-Advanced_calculator_test" target="11" />
+      <module name="Problems-Basic_calculator_main" target="11" />
+      <module name="Problems-Basic_calculator_test" target="11" />
+      <module name="Problems-Complex_main" target="11" />
+      <module name="Problems-Complex_test" target="11" />
+      <module name="Problems-Convert_numbers_to_days_main" target="11" />
+      <module name="Problems-Convert_numbers_to_days_test" target="11" />
+      <module name="Problems-Does_the_array_contain_the_element_main" target="11" />
+      <module name="Problems-Does_the_array_contain_the_element_test" target="11" />
+      <module name="Problems-Get_first_and_last_elements_main" target="11" />
+      <module name="Problems-Get_first_and_last_elements_test" target="11" />
+      <module name="Problems-Max_and_Min_main" target="11" />
+      <module name="Problems-Max_and_Min_test" target="11" />
+      <module name="Problems-Pick_your_team_main" target="11" />
+      <module name="Problems-Pick_your_team_test" target="11" />
+      <module name="Problems-The_first_occurrence_in_the_subarray_main" target="11" />
+      <module name="Problems-The_first_occurrence_in_the_subarray_test" target="11" />
+      <module name="Problems-The_index_of_an_argument_main" target="11" />
+      <module name="Problems-The_index_of_an_argument_test" target="11" />
+      <module name="Problems-The_index_of_the_last_occurrence_main" target="11" />
+      <module name="Problems-The_index_of_the_last_occurrence_test" target="11" />
+      <module name="Problems-The_longest_string_in_the_list_main" target="11" />
+      <module name="Problems-The_longest_string_in_the_list_test" target="11" />
+      <module name="Simple_Search_Engine-task_main" target="11" />
+      <module name="Simple_Search_Engine-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
